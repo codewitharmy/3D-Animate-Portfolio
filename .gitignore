@@ -26,3 +26,4 @@ dist-ssr
 
 backup/
 .envpublic/models/character.glb
+public/models/character.glb
